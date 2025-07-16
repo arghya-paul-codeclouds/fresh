@@ -1,4 +1,4 @@
 This is my note one.
 This is master-slave-one.1.
 New line.
-child 2 Here is a new text.
+child 2 Here is a new text. Updated
